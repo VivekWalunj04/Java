@@ -1,7 +1,8 @@
 import java.util.*;
 // Importing the Checkprime class
 
-public class Rangeprime {
+public class Rangeprime 
+   {
     // Checkprime.java
 
     public static boolean isPrime(int n) {
