@@ -23,7 +23,7 @@ public class largestandsmallest {
         for(int i=0;i<n;i++){
             numbers[i] =  sc.nextInt();
         }
-        System.out.println("Largest number in arrat is :"+getLargest(numbers));
+        System.out.println("Largest number in array is :"+getLargest(numbers));
 
     }
     
